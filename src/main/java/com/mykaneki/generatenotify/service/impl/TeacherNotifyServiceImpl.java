@@ -134,12 +134,17 @@ public class TeacherNotifyServiceImpl implements TeacherNotifyService {
                 .execute()
                 .body();
         Map map = JSONUtil.toBean(response, Map.class);
-        JSONArray choices = (JSONArray) map.get("choices");
-        for (Object choice : choices) {
-            JSONObject tempChoice = (JSONObject) choice;
-            JSONObject message = (JSONObject) tempChoice.get("message");
-            content = (String) message.get("content");
+        try{
+            JSONArray choices = (JSONArray) map.get("choices");
+            for (Object choice : choices) {
+                JSONObject tempChoice = (JSONObject) choice;
+                JSONObject message = (JSONObject) tempChoice.get("message");
+                content = (String) message.get("content");
+            }
+        }catch (Exception e){
+            content = map.toString();
         }
+
         return content;
     }
 

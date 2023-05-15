@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f314b68-8db8-4523-9291-9bfdbde11eda" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mykaneki/generatenotify/service/impl/TeacherNotifyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mykaneki/generatenotify/service/impl/TeacherNotifyServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <recent name="D:\ideaprj\generatenotify\src\main\resources\static" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.GeneratenotifyApplication">
+  <component name="RunManager" selected="Maven.generatenotify [package]">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -114,6 +114,58 @@
     <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1">
       <method v="2" />
     </configuration>
+    <configuration name="generatenotify [clean]" type="MavenRunConfiguration" factoryName="Maven">
+      <target name="@@@LOCAL@@@" />
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="generatenotify [package]" type="MavenRunConfiguration" factoryName="Maven">
+      <target name="@@@LOCAL@@@" />
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <configuration name="GeneratenotifyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="generatenotify" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.mykaneki.generatenotify.GeneratenotifyApplication" />
@@ -123,6 +175,8 @@
     </configuration>
     <list>
       <item itemvalue="HTTP 请求.generated-requests | #1" />
+      <item itemvalue="Maven.generatenotify [clean]" />
+      <item itemvalue="Maven.generatenotify [package]" />
       <item itemvalue="Spring Boot.GeneratenotifyApplication" />
     </list>
   </component>
