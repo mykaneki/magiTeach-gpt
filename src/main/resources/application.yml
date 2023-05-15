@@ -1,0 +1,19 @@
+server:
+  port: 80
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/teachernotify
+    username: root
+    password: 123456
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: true
+#  resources:
+#    static-locations=classpath:/public/
+
+api:
+  url: https://api.openai.com/v1/chat/completions
+  apiKey: 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
+
+
