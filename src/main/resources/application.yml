@@ -14,6 +14,6 @@ spring:
 
 api:
   url: https://api.openai.com/v1/chat/completions
-  apiKey: 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
+  apiKey: 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
 
 
