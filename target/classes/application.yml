@@ -9,11 +9,3 @@ spring:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
     map-underscore-to-camel-case: true
-#  resources:
-#    static-locations=classpath:/public/
-
-api:
-  url: https://api.openai.com/v1/chat/completions
-  apiKey: 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
-
-

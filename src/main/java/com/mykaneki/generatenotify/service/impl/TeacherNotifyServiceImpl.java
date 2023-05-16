@@ -7,7 +7,6 @@ import cn.hutool.json.JSONUtil;
 import com.mykaneki.generatenotify.pojo.ChatGptApi;
 import com.mykaneki.generatenotify.pojo.TeacherNotify;
 import com.mykaneki.generatenotify.service.TeacherNotifyService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -16,8 +15,11 @@ import java.util.Objects;
 
 @Service
 public class TeacherNotifyServiceImpl implements TeacherNotifyService {
-    @Autowired
-    private ChatGptApi chatGptApi;
+    private final ChatGptApi chatGptApi;
+
+    public TeacherNotifyServiceImpl(ChatGptApi chatGptApi) {
+        this.chatGptApi = chatGptApi;
+    }
 
     @Override
     public void setTeacherNotify(TeacherNotify teacherNotify) {

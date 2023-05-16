@@ -1,6 +1,5 @@
 com\mykaneki\generatenotify\service\TeacherNotifyService.class
 com\mykaneki\generatenotify\pojo\TeacherNotify.class
-META-INF\spring-configuration-metadata.json
 com\mykaneki\generatenotify\mapper\TeacherNotifyMapper.class
 com\mykaneki\generatenotify\service\impl\TeacherNotifyServiceImpl.class
 com\mykaneki\generatenotify\pojo\Result.class

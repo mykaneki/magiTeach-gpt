@@ -5,11 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f314b68-8db8-4523-9291-9bfdbde11eda" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generatenotify-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mykaneki/generatenotify/GeneratenotifyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mykaneki/generatenotify/GeneratenotifyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mykaneki/generatenotify/pojo/ChatGptApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mykaneki/generatenotify/pojo/ChatGptApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mykaneki/generatenotify/service/impl/TeacherNotifyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mykaneki/generatenotify/service/impl/TeacherNotifyServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/772.d93ef41c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/772.f3e49fc1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/772.f3e49fc1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/app.14832a91.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/app.14832a91.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/chunk-vendors.83c4d223.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/chunk-vendors.83c4d223.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mykaneki/generatenotify/GeneratenotifyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mykaneki/generatenotify/GeneratenotifyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mykaneki/generatenotify/pojo/ChatGptApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mykaneki/generatenotify/pojo/ChatGptApi.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/mykaneki/generatenotify/service/impl/TeacherNotifyServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mykaneki/generatenotify/service/impl/TeacherNotifyServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/772.d93ef41c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/772.f3e49fc1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/772.f3e49fc1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/app.14832a91.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/app.14832a91.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/chunk-vendors.83c4d223.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/js/chunk-vendors.83c4d223.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/generatenotify-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/generatenotify-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/generatenotify-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/generatenotify-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.mykaneki.generatenotify.GeneratenotifyApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.mykaneki.generatenotify.GeneratenotifyApplicationTests.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.mykaneki.generatenotify.GeneratenotifyApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.mykaneki.generatenotify.GeneratenotifyApplicationTests.txt" afterDir="false" />
     </list>
@@ -70,7 +98,7 @@
     "project.structure.last.edited": "全局库",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Errors",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "spring.configuration.checksum": "8e71180c4435601926c5482912a661f7",
     "vue.rearranger.settings.migration": "true"
   },
@@ -85,7 +113,7 @@
       <recent name="D:\ideaprj\generatenotify\src\main\resources\static" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.generatenotify [package]">
+  <component name="RunManager" selected="Spring Boot.GeneratenotifyApplication">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -172,7 +200,12 @@
       <method v="2" />
     </configuration>
     <configuration name="GeneratenotifyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="url" value="https://api.openai.com/v1/chat/completions" />
+        <env name="apiKey" value="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" />
+      </envs>
       <module name="generatenotify" />
+      <target name="@@@LOCAL@@@" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.mykaneki.generatenotify.GeneratenotifyApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -209,6 +242,7 @@
       <workItem from="1680783825647" duration="1201000" />
       <workItem from="1680790638320" duration="57000" />
       <workItem from="1681090846691" duration="85000" />
+      <workItem from="1684197206682" duration="2665000" />
     </task>
     <servers />
   </component>
